@@ -17,3 +17,18 @@
     object-fit: cover;
     border-radius: 10px;
   }
+
+  body {
+    background-color: white;
+    color: black;
+  }
+
+  .dark-mode {
+    background-color: black;
+    color: white;
+  }
+
+  .center {
+    text-align: center;
+    display: block;
+  }
